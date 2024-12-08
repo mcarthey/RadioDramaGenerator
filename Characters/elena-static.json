@@ -1,0 +1,18 @@
+﻿{
+  "name": "Elena",
+  "backstory": "A former mage from the ancient world, now a mechanic trying to adapt to the new tech era.",
+  "description": "Elena is tall with piercing blue eyes, always wearing her work apron and goggles.",
+  "traits": {
+    "intelligence": 8,
+    "strength": 6,
+    "wisdom": 9,
+    "alignment": 2,
+    "emotion": "determined",
+    "motivation": "prove magic still has a place in the new era"
+  },
+  "equipment": [
+    "Multitool wrench",
+    "Arcane-infused goggles",
+    "Ancient spellbook (non-functional)"
+  ]
+}

@@ -1,0 +1,18 @@
+﻿{
+  "name": "Kai",
+  "backstory": "A rogue technologist who believes in melding technology with ancient magical relics.",
+  "description": "Kai is wiry, with spiky black hair and an ever-present mischievous grin.",
+  "traits": {
+    "intelligence": 9,
+    "dexterity": 8,
+    "charisma": 7,
+    "alignment": 1,
+    "emotion": "curious",
+    "motivation": "uncover the relic's secrets"
+  },
+  "equipment": [
+    "Wrist-mounted tool kit",
+    "Holo-scanner",
+    "Ancient magical relic"
+  ]
+}

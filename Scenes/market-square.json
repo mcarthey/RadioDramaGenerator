@@ -1,0 +1,23 @@
+﻿{
+  "sceneName": "Market Square at Sunset",
+  "description": "The sun sets over the bustling market square, casting long shadows across the cobblestoned streets. Stalls are being packed up by weary merchants, their goods reduced to a few scattered items. The air is thick with the mingling scents of spices, fresh bread, and the tang of metal from a nearby blacksmith's forge. A soft hum of chatter and the occasional shout fade as the evening approaches, and lanterns begin to flicker to life, casting a warm glow on the fading day. Children chase each other through the thinning crowds, while a bard strums a lute on the corner, the melancholic tune drifting through the air.",
+  "states": {
+    "timeOfDay": "Sunset",
+    "weather": "Mild, with a gentle breeze"
+  },
+  "notableLocations": [
+    "A blacksmith's forge with glowing embers visible through the open door",
+    "A bakery with its shutters half-closed, the smell of fresh bread lingering",
+    "A makeshift stage where a bard is performing",
+    "A large fountain at the center, its water glistening in the fading sunlight"
+  ],
+  "backgroundSounds": [
+    "Soft chatter of merchants packing up",
+    "The metallic clink of the blacksmith's hammer",
+    "A bard's melancholic tune on the lute",
+    "The laughter of children playing"
+  ],
+  "challenges": [
+    "A child runs through the square, knocking over a fruit stand."
+  ]
+}
